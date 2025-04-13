@@ -1,0 +1,6 @@
+name: GApples
+version: '1.0'
+main: org.lukez.gApples.GApples
+api-version: '1.21'
+authors: [ NT_AUTHORITY ]
+website: github.com/NT-AUTHORITY
